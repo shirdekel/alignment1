@@ -20,3 +20,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/shirdekel/alignment1
+BugReports: https://github.com/shirdekel/alignment1/issues
